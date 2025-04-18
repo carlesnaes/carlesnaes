@@ -21,6 +21,7 @@
 ## 🌐 Socials:
 
 Linkedin:www.linkedin.com/in/carles-navarro-esteve-7a1070335
+
 Gmail:cnavarroesteve04@gmail.com
 
 ---

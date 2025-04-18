@@ -1,4 +1,4 @@
-<h1 align="center">Hey There!, I am Carles Navarro Eseteve 👋</h1>
+<h1 align="center">Hey There!, I am Carles Navarro Esteve 👋</h1>
 
 <p align="center">
   <i>I'm a Data Science Student 👨‍💻 from Valencia </i>

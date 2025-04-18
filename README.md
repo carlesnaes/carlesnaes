@@ -20,8 +20,8 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]((https://www.linkedin.com/in/carles-navarro-esteve-7a1070335))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:cnavarroesteve04@gmail.com)
+Linkedin:www.linkedin.com/in/carles-navarro-esteve-7a1070335
+Gmail:cnavarroesteve04@gmail.com
 
 ---
 
